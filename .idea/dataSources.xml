@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="56948140">
+    <data-source source="LOCAL" name="Rails sergeiibasko: development" uuid="b6b6b6a8-59db-45db-b6e3-2adf91c88583">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/one_db</jdbc-url>
+      <user-name>one_user</user-name>
+      <user-password>df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sergeiibasko: test" uuid="b4a6821b-7f3c-4be1-a2a3-6efb462c65ba">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/db/test.sqlite3</jdbc-url>
+      <user-name>one_user</user-name>
+      <user-password>df9b</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails sergeiibasko: production" uuid="a2592913-60ca-48eb-aaea-e6e2f8b7d1f9">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/db/production.sqlite3</jdbc-url>
+      <user-name>one_user</user-name>
+      <user-password>df9b</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
